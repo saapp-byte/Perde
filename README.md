@@ -27,7 +27,7 @@ Tüm algılama telefonunda yapılır. Uygulama internete erişim izni istemez, h
 
 ## 📲 İndir ve Test Et (Android)
 
-1. [**Son sürümü indir**](https://github.com/saapp-byte/App/releases/latest) ve **`app-debug.apk`** dosyasına dokun.
+1. [**Son sürümü indir**](https://github.com/saapp-byte/Perde/releases/latest) ve **`app-debug.apk`** dosyasına dokun.
 2. İnen dosyayı aç ve yükle.
 3. "Bilinmeyen kaynaklardan yükleme" veya Play Protect uyarısı çıkarsa **izin ver / Yine de yükle** de.
 
@@ -46,12 +46,12 @@ Uygulama arka planda kapanıyorsa (özellikle Xiaomi/MIUI):
 
 ## 🐞 Hata bildir
 
-Bir hata bulursan [Issues](https://github.com/saapp-byte/App/issues) sayfasından bildir. Cihaz modelini ve Android sürümünü yazarsan sevinirim.
+Bir hata bulursan [Issues](https://github.com/saapp-byte/Perde/issues) sayfasından bildir. Cihaz modelini ve Android sürümünü yazarsan sevinirim.
 
 ## 🔨 Kendin derle
 
 ```bash
-git clone https://github.com/saapp-byte/App.git
+git clone https://github.com/saapp-byte/Perde.git
 cd App
 gradle assembleDebug
 ```

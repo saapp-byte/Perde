@@ -52,7 +52,7 @@ Bir hata bulursan [Issues](https://github.com/saapp-byte/Perde/issues) sayfasın
 
 ```bash
 git clone https://github.com/saapp-byte/Perde.git
-cd App
+cd Perde
 gradle assembleDebug
 ```
 
